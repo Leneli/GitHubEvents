@@ -1,0 +1,5 @@
+export const actionEventsTypes = {
+  REQUEST_EVENTS: 'events/REQUEST_EVENTS',
+  REQUEST_EVENTS_SUCCESS: 'events/REQUEST_EVENTS_SUCCESS',
+  REQUEST_EVENTS_FAIL: 'events/REQUEST_EVENTS_FAIL',
+};
